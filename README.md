@@ -54,18 +54,16 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 
 
-![legend](https://telegra.ph/file/b58e5081b793f627e6c40.jpg)
 
 
 
 
 
--[Sensei](https://t.me/Sensei_nex)🔥🔥 For his SenseiMAX-Kingbot 🔥🔥
          
 
 
 
-![Sensei](https://media.giphy.com/media/xT0GqimU9dTwmE5lra/giphy.gif)
+
    
    
    
